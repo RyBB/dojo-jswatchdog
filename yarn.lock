@@ -846,7 +846,7 @@
     "lodash" "^4.17.19"
     "to-fast-properties" "^2.0.0"
 
-"@cybozu/eslint-config@^11.0.0":
+"@cybozu/eslint-config@^11.0.4":
   "integrity" "sha512-E6uzb7tqm6AWj0a62x9U8lT+K8dSl2oKbopZm0KvtlK/R7CR4eJ1yVQf1Vqn8rxfkIqnY2PzqXyfXBTxfgGHDQ=="
   "resolved" "https://registry.npmjs.org/@cybozu/eslint-config/-/eslint-config-11.0.4.tgz"
   "version" "11.0.4"
