@@ -1,7 +1,7 @@
 (() => {
   'use strict';
 
-  kintone.events.on('app.record.index.show', function(event) {
+  kintone.events.on('app.record.index.show', (event) => {
     const sampleFieldCode = 'hoge';
     const header = kintone.app.getHeaderMenuSpaceElement();
     const button = document.createElement('button');
